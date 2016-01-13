@@ -1,3 +1,3 @@
 Гру скінчено!
 
-[Розпочати спочатку?](marshmallow.md)
+[Розпочати спочатку?](https://github.com/ccc0der/create-your-own-adventure/edit/master/ukrainian/marshmallow.md)
